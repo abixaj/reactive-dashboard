@@ -190,49 +190,6 @@ npm run lint
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how to help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Code Style
-
-- Use TypeScript for type safety
-- Follow the existing code structure
-- Add comments for complex logic
-- Run `npm run lint` before committing
-
----
-
-## 🐛 Troubleshooting
-
-**Dashboard shows "Loading..." forever**
-- Check your internet connection
-- Verify RPC endpoint is accessible
-- Check browser console for errors
-
-**Charts not displaying**
-- Ensure you have enough block history
-- Check that Recharts is properly installed
-
-**RPC errors**
-- Verify the RPC URL is correct
-- Check if Reactive Network is online
-- Try the public RPC: `https://mainnet-rpc.rnk.dev/`
-
----
-
-## 📜 License
-
-This project is open source and available under the MIT License.
-
----
-
 ## 🎯 Roadmap
 
 Future features planned:
@@ -250,13 +207,6 @@ Future features planned:
 ## 👥 Author
 
 Built with ❤️ by [@abixaj](https://github.com/abixaj)
-
----
-
-## 📞 Support
-
-- GitHub Issues: [Report a bug](https://github.com/abixaj/reactive-dashboard/issues)
-- Discussions: [Ask a question](https://github.com/abixaj/reactive-dashboard/discussions)
 
 ---
 
